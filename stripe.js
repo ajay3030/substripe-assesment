@@ -19,7 +19,7 @@ app.post('/create-checkout-session', async (req, res) => {
         quantity: 1
       }
     ],
-    success_url: `${YOUR_DOMAIN}/success?success=true&session_id={CHECKOUT_SESSION_ID}`,
+    success_url: `${YOUR_DOMAIN}/?success=true&session_id={CHECKOUT_SESSION_ID}`,
     cancel_url: `${YOUR_DOMAIN}?canceled=true`,
   });
 
