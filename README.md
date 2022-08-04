@@ -1,3 +1,10 @@
+## Languages/Frameworks/Database Used
+- React.js
+- HTML5/CSS3/JavaScript
+- Node.js
+- MongoDB
+- Stripe API
+
 ## Dependences Used
 - [Express](https://www.npmjs.com/package/express)
 - [Node](http://nodejs.org/)
@@ -8,13 +15,6 @@
 - [bcrypt](https://www.npmjs.com/package/bcrypt)
 - [jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)
 - [create-react-app](https://create-react-app.dev/)
-
-## Languages/Frameworks/Database Used
--React.js
--HTML5/CSS3/JavaScript
--Node.js
--MongoDB
--Stripe API
 
 ## SETTING UP 
 - Clone the repository to your machine
