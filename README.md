@@ -24,3 +24,6 @@
 - Run <code>npm start</code> to spin up the server
 - The server runs on port 3000 <code>http://localhost:3000/</code>
 
+## Thanks to Team Richpanel for The Opportunity
+- [Hosted App URL](https://substripe.herokuapp.com/)
+- [Working Video URL](https://drive.google.com/file/d/17pwbnEWDQUAEJmok8A8GZa07CrKCjKY2/view?usp=sharing)
