@@ -1,6 +1,6 @@
 ## Substripe - A Stripe Based Subscription || Frontend
 ## Dependencies
-* [React-Bootstrap](https://react-bootstrap.github.io/)
+* [React](https://reactjs.org)
 * [react-router-dom](https://www.npmjs.com/package/react-router-dom)
 * [universal-cookie](https://www.npmjs.com/package/universal-cookie)
 * [Axios](https://www.npmjs.com/package/axios)
